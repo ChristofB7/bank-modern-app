@@ -35,5 +35,4 @@ const App = () => {
     </div>
   )
 }
-7
 export default App
