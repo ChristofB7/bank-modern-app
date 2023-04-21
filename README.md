@@ -1,7 +1,7 @@
 
  # <p align="center"> Mock Business Site </p>
  ### <p align="center"> A static React webpage made using Tailwind css. </p>
- ### <p align="center"> [Live Demo](https://christofb7.github.io/gerich-restaurant/) </p>
+ ### <p align="center"> [Live Demo](https://christofb7.github.io/bank-modern-app/) </p>
 
 >### <p align="center"> About: </p>
 ![](src/assets/bank.png "hero section")
